@@ -1,0 +1,32 @@
+1 2
+
+Start with a weighted graph Choose a starting vertex and assign
+* innity path values to all other vertites
+
+ 
+
+3 4
+
+an to each vertex adjacent to this If the path length of adjacent vertex is
+
+vertex and update its path length lesser than new path length, don‘!
+update it.
+
+ 
+
+5 6
+Avoid updating path lengths ol Afte_r_eath itevatiofl. we Pitk the
+ahvgady visited veniees unvisited vertex with least
+
+path length. So we chose 5 belore 7
+
+ 
+
+7 8
+
+Notice how the rightmost vertex Repeal until all the vertires have
+has its path length updated twice been visited
+
+ 
+
+
